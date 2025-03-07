@@ -16,7 +16,7 @@ public class MostFrequent_Number {
 		
 		int key=1;
 		
-		cal(list,key);
+		//cal(list,key);
 	}
 
 }
